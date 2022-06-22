@@ -47,7 +47,7 @@
     ],
 
     "start_url": "/index.html",
-    "scope": ".",
+    "scope": "/",
     "display": "standalone",
     "oreintation": "portrait-primary",
     "background_color": "#fff",
@@ -55,5 +55,4 @@
     "description": "A simple instagram clone to demonstrate PWA",
     "dir": "ltr",
     "lang": "en-US"
-
 }
